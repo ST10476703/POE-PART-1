@@ -1,0 +1,4 @@
+rati:ofentse,18,true
+thabo:thabo mbeki,19,true
+fatso:tshegofatso,17,true
+tebza:teboho,19,true

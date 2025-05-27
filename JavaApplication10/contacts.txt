@@ -1,0 +1,6 @@
+rati_|thabi_
+R_|thabi_
+thabi_|R_
+thabi_|rati_
+rati_|thabi_
+rati_|test_user
